@@ -1,6 +1,12 @@
 # shareprefarance
 
-A new Flutter project.
+A new Flutter project. 
+
+Screenshort : android, i'os, web supported 
+
+![s1](https://user-images.githubusercontent.com/19724239/144736278-d16e78e3-2c6d-428d-bee8-efff32f4f220.PNG)
+![s2](https://user-images.githubusercontent.com/19724239/144736280-20217571-7ce8-48a7-b74c-1bdcdbb7537f.PNG)
+
 
 ## Getting Started
 
